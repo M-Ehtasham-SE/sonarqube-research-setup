@@ -2,24 +2,15 @@
 
 
 
-\## Repository Information
-
+## Repository Information
 | Field | Value |
-
 |-------|-------|
-
 | Repository | Apache Commons JCI |
-
 | Repository URL | https://github.com/apache/commons-jci |
-
-| Student | 24F-3098 |
-
-| Team | (apni team) |
-
+| Student | 24F-3098 (Ehtasham) |
+| Team | Ehtasham |
 | Default Branch | master |
-
 | Checked-out Commit | 42f037651be8ce83423a9ad14645610efaf23b92 |
-
 | Commit Date | 2025-12-29 |
 
 
